@@ -1,1 +1,4 @@
-# notebook-241114
+# Quarto
+A [Quarto](https://quarto.org/) template
+
+## Introduction
